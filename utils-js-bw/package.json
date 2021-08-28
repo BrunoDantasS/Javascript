@@ -1,0 +1,12 @@
+{
+  "name": "utils-js-bw",
+  "version": "1.0.0",
+  "description": "useful modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["utils", "cep", "zip code"],
+  "author": "brunowesley",
+  "license": "ISC"
+}
